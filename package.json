@@ -1,0 +1,26 @@
+{
+  "name": "carbon-inferno-d3",
+  "version": "1.0.0",
+  "description": "d3 and parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grady-lad/carbon-inferno-d3.git"
+  },
+  "author": "grady-lad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grady-lad/carbon-inferno-d3/issues"
+  },
+  "homepage": "https://github.com/grady-lad/carbon-inferno-d3#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.2.0"
+  },
+  "dependencies": {
+    "d3": "^4.12.2"
+  }
+}
