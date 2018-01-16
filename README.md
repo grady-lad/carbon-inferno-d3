@@ -1,2 +1,3 @@
 # carbon-inferno-d3
-d3 and parcel bundler
+
+Trying to learn d3 by rewriting the graph used in http://www.carbondoomsday.com/. Also testing out parcel bundler too :D
